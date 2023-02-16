@@ -1,0 +1,7 @@
+﻿  GuessingGame1_HJL.cpp
+C:\Users\s02415179\OneDrive - Colorado Community College System\Project\GuessingGame\GuessingGame\GuessingGame\GuessingGame1_HJL.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GuessingGame2_HJL.cpp
+C:\Users\s02415179\OneDrive - Colorado Community College System\Project\GuessingGame\GuessingGame\GuessingGame\GuessingGame2_HJL.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+GuessingGame2_HJL.obj : error LNK2005: _main already defined in GuessingGame1_HJL.obj
+C:\Users\s02415179\OneDrive - Colorado Community College System\Project\GuessingGame\GuessingGame\Debug\GuessingGame.exe : fatal error LNK1169: one or more multiply defined symbols found

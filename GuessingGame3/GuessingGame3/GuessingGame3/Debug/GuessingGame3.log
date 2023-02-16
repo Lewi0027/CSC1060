@@ -1,0 +1,3 @@
+﻿  GuessingGame3_HJL.cpp
+C:\Users\s02415179\OneDrive - Colorado Community College System\Project\GuessingGame3\GuessingGame3\GuessingGame3\GuessingGame3_HJL.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GuessingGame3.vcxproj -> C:\Users\s02415179\OneDrive - Colorado Community College System\Project\GuessingGame3\GuessingGame3\Debug\GuessingGame3.exe
