@@ -1,0 +1,3 @@
+﻿  ArraySortCS_HJL.cpp
+C:\Users\s02415179\OneDrive - Colorado Community College System\Project\ArraySortCS\ArraySortCS\ArraySortCS\ArraySortCS_HJL.cpp(64,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ArraySortCS.vcxproj -> C:\Users\s02415179\OneDrive - Colorado Community College System\Project\ArraySortCS\ArraySortCS\Debug\ArraySortCS.exe
